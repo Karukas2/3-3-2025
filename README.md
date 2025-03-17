@@ -1,3 +1,4 @@
+ **`Paciam prisiminimas Naudojimas internetu rasta informacija apacioje sio puslapio.`**
 1. **`window` vs `document`**
 
    - **`window`**: Represents the browser window or tab. It's the global object in browser JavaScript and holds properties like `innerWidth`, `innerHeight`, `location`, and methods like `alert()`, `setTimeout()`.  It also contains the `document` object.
