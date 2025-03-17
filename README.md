@@ -61,6 +61,7 @@
    const myElement = document.getElementById('myElement');
    addClass(myElement, 'my-new-class');
    ```
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-https://developer.mozilla.org/en-US/docs/Web/API/Window
-https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+   **`links`**
+1. **`https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model`**
+2. https://developer.mozilla.org/en-US/docs/Web/API/Window
+3. https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
