@@ -62,10 +62,7 @@
    addClass(myElement, 'my-new-class');
    ```
    **`links`**
-   
- **`A`**
-  https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
- **`B`** 
- https://developer.mozilla.org/en-US/docs/Web/API/Window
- **`C`** 
- https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+
+   **`A`**  https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+   **`B`**  https://developer.mozilla.org/en-US/docs/Web/API/Window
+   **`C`**  https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
